@@ -1,0 +1,13 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Volumes/Home/larpoux/flutter
+FLUTTER_APPLICATION_PATH=/Volumes/Home/larpoux/projmac/flutter_sound/flutter_sound/example
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=8.4.2
+FLUTTER_BUILD_NUMBER=8.4.2
+EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=false
+TREE_SHAKE_ICONS=true
+PACKAGE_CONFIG=/Volumes/Home/larpoux/projmac/flutter_sound/flutter_sound/example/.dart_tool/package_config.json
